@@ -39,4 +39,4 @@ I'm into machine learning — turning messy data into something useful (or at le
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ---
-[![](https://komarev.com/ghpvc/?username=codewithvishhh&label=Profile%20views&color=0e75b6&style=flat)](https://visitcount.itsvg.in)
+
