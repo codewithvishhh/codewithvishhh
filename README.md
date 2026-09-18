@@ -4,7 +4,7 @@ I'm into machine learning — turning messy data into something useful (or at le
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/idk.vishh)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishnukumar16)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishnukumar16)
 [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@your-handle)
 
 <!-- Snake Game (real contribution graph) -->
@@ -42,8 +42,7 @@ I'm into machine learning — turning messy data into something useful (or at le
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=codewithvishhh&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=codewithvishhh&theme=github_dark_dimmed&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=codewithvishhh&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=codewithvishhh&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=codewithvishhh&label=Profile%20views&color=0e75b6&style=flat)](https://visitcount.itsvg.in)
