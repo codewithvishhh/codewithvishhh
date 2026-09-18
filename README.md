@@ -11,14 +11,8 @@ I'm into machine learning — turning messy data into something useful (or at le
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishnukumar16)
 [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@your-handle)
 
-<!-- Snake Game (real contribution graph) -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codewithvishhh/codewithvishhh/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codewithvishhh/codewithvishhh/output/github-contribution-grid-snake.svg">
-    <img alt="snake eating my contribution graph" src="https://raw.githubusercontent.com/codewithvishhh/codewithvishhh/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
+
+
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
