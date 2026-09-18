@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:00C7B7&height=180&section=header&text=Hey,%20I'm%20Vishh&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+</div>
+
 # 💫 About Me:
 I'm into machine learning — turning messy data into something useful (or at least trying to 😄). I enjoy building models, digging into datasets, and figuring out why the numbers are doing what they're doing.<br><br>
 🔭 Currently working on: **AgroFarm**<br><br>
@@ -39,10 +43,6 @@ I'm into machine learning — turning messy data into something useful (or at le
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=codewithvishhh&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=codewithvishhh&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 [![](https://komarev.com/ghpvc/?username=codewithvishhh&label=Profile%20views&color=0e75b6&style=flat)](https://visitcount.itsvg.in)
